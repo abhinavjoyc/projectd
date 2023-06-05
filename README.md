@@ -1,0 +1,2 @@
+# projectd
+ full
